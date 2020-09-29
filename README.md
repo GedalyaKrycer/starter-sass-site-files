@@ -1,5 +1,5 @@
 # starter-sass-site-files
-Starting file package for a sass site.
+Starting file package for a sass site. This [YouTube Course by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA) is a great refresher on the basics of SASS.
 
 ## Includes 
 
