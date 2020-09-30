@@ -1,0 +1,28 @@
+// 1-Utils
+@import "./1-utils/variables";
+@import "./1-utils/mixins";
+@import "./1-utils/functions";
+
+// 2-base
+@import "./2-base/buttons";
+@import "./2-base/global";
+@import "./2-base/links";
+@import "./2-base/typography";
+
+// 3-mainComponents
+@import "./3-mainComponents/navbar";
+@import "./3-mainComponents/footer";
+@import "./3-mainComponents/homeHero";
+@import "./3-mainComponents/interiorHero";
+@import "./3-mainComponents/404Hero";
+@import "./3-mainComponents/subscribeSection";
+
+// 4-subComponents
+
+
+// 5-pages
+@import "./5-pages/home";
+@import "./5-pages/about";
+@import "./5-pages/services";
+@import "./5-pages/contact";
+@import "./5-pages/404";
